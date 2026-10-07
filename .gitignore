@@ -1,0 +1,6 @@
+*.tar
+*.dmp
+*.gz
+*.zip
+docker-images/
+
